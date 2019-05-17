@@ -1,1 +1,0 @@
-# calcul_ean
